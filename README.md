@@ -1,4 +1,4 @@
-# RAVEN – IoT-Monitored Mobile Retrieval Robot
+# IRON TECH WARRIORS – IoT-Monitored Mobile Retrieval Robot
 ### IR-controlled mobile manipulator platform enhanced with sensor feedback and IoT telemetry for BUILDATHON 2026
 
 ![Buildathon](https://img.shields.io/badge/BUILDATHON-2026-blueviolet)
@@ -333,12 +333,10 @@ Technical documentation references (name only — exact URLs not fabricated; ver
 
 ## 20. Team
 
-**Team Name:** RAVEN
-**Team Leader:** Hari Prasad L S
+**Team Name:** IRON TECH WARRIORS
+**Team Leader:** VIJAY ANAND V
 
-- Member 2:
-- Member 3:
-- Member 4:
+
 
 ---
 
